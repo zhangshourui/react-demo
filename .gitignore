@@ -3,7 +3,10 @@
 # dependencies
 node_modules
 /node-v10.16.0-linux-x64
+/.vscode
 /.pnp
+/bin/*
+
 .pnp.js
 
 # testing
